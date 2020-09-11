@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../screens/login_screen.dart';
+import '../src/screens/login_screen.dart';
 
 class App extends StatelessWidget {
   build(context) {
